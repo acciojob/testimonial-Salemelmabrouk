@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+.tit{
+	 padding: 0 2.5em;
+}
 .testimonial-container {
     padding: 20px;
     background-color: #f9f9f9;
